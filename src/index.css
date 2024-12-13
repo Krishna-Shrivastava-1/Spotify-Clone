@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    background-color: rgb(34, 34, 34);
+}
+
+
+  .playshad:hover{
+    cursor: pointer;
+  filter: drop-shadow(-8px 10px 20px rgb(8, 228, 154));
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .song-controller{
+    /* mask-image: linear-gradient(to top, rgb(0, 0, 0) ,rgb(0, 0, 0) 80% ,transparent); */
+    background-color: rgba(0, 0, 0, 0.575);
+    backdrop-filter: blur(12px);
+  }
+
+  /* General range slider styling */
+input[type="range"] {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  background: #ddd; /* Default track background (for older browsers) */
+}
+
+
+
+
+.bocv{
+  transition: all 0.7s;
+}
+.bocv:hover{
+  box-shadow: inset -20px 100px 80px rgba(0, 0, 0, 0.932), inset 0px 300px 140px rgb(122, 120, 120);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.scar{
+  transition: all 0.7s;
+}
+.scar:hover{
+  box-shadow: inset -20px 200px 80px rgba(151, 90, 49, 0.349), inset 0px 300px 140px rgb(0, 0, 0);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.fairy{
+  transition: all 0.7s;
+  
+}
+.fairy:hover{
+  box-shadow: inset -20px 200px 80px rgba(88, 88, 88, 0.76), inset 0px 300px 140px rgb(0, 0, 0);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.capta{
+  transition: all 0.7s;
+}
+.capta:hover{
+  box-shadow: inset 0px 300px 80px rgba(0, 54, 116, 0.678), inset 0px 300px 140px rgb(235, 4, 4);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.imdrag{
+  transition: all 0.7s;
+}
+.imdrag:hover{
+  box-shadow: inset 0px 300px 80px rgba(0, 0, 0, 0.562), inset 0px 300px 140px rgba(1, 34, 104, 0.712);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.moon{
+  transition: all 0.7s;
+}
+.moon:hover{
+  box-shadow: inset 0px 300px 80px rgba(12, 12, 12, 0.712), inset 0px 300px 140px rgba(184, 183, 183, 0.445);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.idio{
+  transition: all 0.7s;
+}
+.idio:hover{
+  box-shadow: inset 0px 300px 80px rgba(0, 0, 0, 0.568), inset 0px 300px 140px rgba(4, 200, 235, 0.904);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.sparr{
+  transition: all 0.7s;
+}
+.sparr:hover{
+  box-shadow: inset 0px 300px 80px #697c815e, inset 0px 300px 140px rgba(0, 0, 0, 0.733);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.hakku{
+  transition: all 0.7s;
+}
+.hakku:hover{
+  box-shadow: inset 0px 300px 80px #c4390273, inset 0px 300px 140px rgba(222, 226, 4, 0.473);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.ganda{
+  transition: all 0.7s;
+}
+.ganda:hover{
+  box-shadow: inset 0px 300px 80px #02213ada, inset 0px 300px 140px rgba(232, 236, 8, 0.452);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.vida{
+  transition: all 0.7s;
+}
+.vida:hover{
+  box-shadow: inset 0px 300px 80px #23026ea9, inset 0px 300px 140px rgba(177, 4, 148, 0.562);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.bile{
+  transition: all 0.7s;
+}
+.bile:hover{
+  box-shadow: inset 0px 300px 80px #0d026ecb, inset 0px 300px 140px rgba(3, 119, 173, 0.788);
+
+  /* mask-image: linear-gradient(to top, rgb(238, 236, 236) ,rgb(158, 158, 158) 40% ,transparent); */
+}
+.scroller{
+  scrollbar-width:none;
+  scroll-behavior: smooth;
+}

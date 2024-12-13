@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Skaar Song in Lion King 'Ho Tayaar'",
+        "artist": "Jeremy Irons",
+        "duration": "1:57",
+        "songlink": "/public/assets/Scar song.mp3",
+        "thumbnail": "/public/assets/scarimg.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Fairy Tale",
+        "artist": "Alexandra Rybak",
+        "duration": "2:46",
+        "songlink": "/public/assets/fairyy.mp3",
+        "thumbnail": "/public/assets/fairy.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Captain America Infinity War",
+        "artist": "Alan Silvestri",
+        "duration": "3:05",
+        "songlink": "/public/assets/capta.mp3",
+        "thumbnail": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Imagine Dragon",
+        "artist": "Dan Reynolds",
+        "duration": "5:18",
+        "songlink": "/public/assets/imagine dragon.mp3",
+        "thumbnail": "/public/assets/reynolds.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Marvel Studios: Moon Knight Theme | EPIC VERSION فارس القمر ",
+        "artist": "Samuel Kim",
+        "duration": "3:33",
+        "songlink": "/public/assets/monnknight.mp3",
+        "thumbnail": "https://avatarfiles.alphacoders.com/348/thumb-150-348736.jpg"
+    },
+    {
+        "id": 6,
+        "title": "All is Well",
+        "artist": "Katey Sagal",
+        "duration": "4:48",
+        "songlink": "/public/assets/alliswe.mp3",
+        "thumbnail": "/public/assets/3idiot.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pirates Of Caribean",
+        "artist": "Klaus Badelt",
+        "duration": "1:57",
+        "songlink": "/public/assets/Pirates of the Caribbean.mp3",
+        "thumbnail": "https://th.bing.com/th/id/OIP.KSrjmrAnUBlz7XEd0pAVUwHaK4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 8,
+        "title": "Hakuna Matata",
+        "artist": "Nathan Lane",
+        "duration": "4:06",
+        "songlink": "/public/assets/Hakuba Matata.mp3",
+        "thumbnail": "https://th.bing.com/th/id/OIP.DY_DngwDHuQrNBHNtWEczAHaKp?w=570&h=820&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 9,
+        "title": "Georgian people - Gandagana (Lyrics)",
+        "artist": "Karmate",
+        "duration": "2:48",
+        "songlink": "/public/assets/gandgana.mp3",
+        "thumbnail": "https://th.bing.com/th/id/OIP.KSossPiiEK7La9CPO6N8cQHaFj?w=480&h=360&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 11,
+        "title": "Indila Ainsi Bas La Vida",
+        "artist": "Imagine Dragon",
+        "duration": "3:35",
+        "songlink": "/public/assets/Indila.mp3",
+        "thumbnail": "https://th.bing.com/th/id/OIP.DpV815FQuxL_3f0hHU-7sAHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 10,
+        "title": "Believer",
+        "artist": "Imagine Dragon",
+        "duration": "3:24",
+        "songlink": "/public/assets/Imagine Dragons - Believer (Lyrics).mp3",
+        "thumbnail": "https://th.bing.com/th/id/R.8d86dedb9bef3595f36e46959dac0c48?rik=bslTxeXlRK6e4A&riu=http%3a%2f%2fmedia-cache-ak0.pinimg.com%2f736x%2fba%2f03%2f3d%2fba033df7f2a2f24b76d8c4f3d322af8c.jpg&ehk=VNRdYpP8F%2b16fNnxNHJO1WscXV837SEAfp7yiPGPLwU%3d&risl=&pid=ImgRaw&r=0"
+    }
+]
